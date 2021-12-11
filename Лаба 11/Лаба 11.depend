@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1638016967 source:c:\users\annav\onedrive\Рабочий стол\programms\Прога\Лаба 11\main.c
+	<stdio.h>
+	"figure.h"
+
+1638018212 c:\users\annav\onedrive\Рабочий стол\programms\Прога\Лаба 11\figure.h
+
+1638018031 source:c:\users\annav\onedrive\Рабочий стол\programms\Прога\Лаба 11\figure.c
+	<stdio.h>
+	"figure.h"
+	<math.h>
+
